@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+ 
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font: size 1px;
+    color: bisque;
+    text-align: center;
+}
+
+.abc{
+    margin-left:5% ;
+    color: black;
+    
+}
+
+.def{
+    font-size: 25px;
+    font-style: calc();
+}
+.AG{
+    font: size 15px; 
+    
+}
